@@ -1,0 +1,45 @@
+*{
+  background-color: blue;
+  color: white;
+}
+
+h1 {
+  background-color: rgb(255, 208, 0);
+  color: white;
+}
+
+h2{
+  background-color: pink;
+  color: blueviolet;
+}
+
+h3{
+  background-color: lavender;
+  color:black;
+}
+
+h4{
+  background-color: yellow;
+  color:red;
+}
+
+h5{
+  background-color: green;
+  color: white;
+}
+ h6{
+  background-color: orange;
+  color: white;
+ }
+
+
+p{
+  background-color: rgb(20, 19, 15);
+  color: lightblue;
+
+} 
+
+pre{
+  background-color:orange;
+  color: lightblue;
+}
